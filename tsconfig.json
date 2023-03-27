@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+      "alwaysStrict": true,
+      "noImplicitThis": true,
+      "noImplicitReturns": true,
+      "noImplicitAny": true,
+      "strict": true,
+      "removeComments": true,
+      "strictNullChecks": true,
+      "strictFunctionTypes": true,
+      "strictBindCallApply": true,
+      "strictPropertyInitialization": true,
+      "esModuleInterop": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "moduleResolution": "Node"
+  },
+    "exclude": [
+    "node_modules"
+  ]
+}

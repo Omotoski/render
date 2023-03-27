@@ -1,0 +1,13 @@
+body.background{
+    background-image: url("images/background.jpg");
+    background-size: cover;
+}
+
+main.main-container{
+    color: white;
+    background-color: rgba(0,0,10,0.5);
+    width: 50%;
+    height: 100vh;
+    margin: 0 auto;
+    padding: 2rem;
+}
